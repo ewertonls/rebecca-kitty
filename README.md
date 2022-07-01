@@ -35,16 +35,16 @@ This theme is based on Rebecca Emacs Theme:
 [https://github.com/vic/rebecca-theme](https://github.com/vic/rebecca-theme)
 
 
-| Color   | Hex Normal                                     | Hex Bright                                      |
-|---------|------------------------------------------------|-------------------------------------------------|
-| Black   | <span style="color: #292a44">🮋</span> #292A44 | <span style="color: #53495d">🮋</span> #53495D  |
-| Red     | <span style="color: #ff79c6">🮋</span> #FF79C6 | <span style="color: #ff5faf">🮋</span> #FF5FAF  |
-| Green   | <span style="color: #2de0a7">🮋</span> #2DE0A7 | <span style="color: #5fd7af">🮋</span> #5FD7AF  |
-| Yellow  | <span style="color: #efe4a1">🮋</span> #EFE4A1 | <span style="color: #ffff87">🮋</span> #FFFF87  |
-| Blue    | <span style="color: #7aa5ff">🮋</span> #7AA5FF | <span style="color: #5fafff">🮋</span> #5FAFFF  |
-| Magenta | <span style="color: #ae81ff">🮋</span> #AE81FF | <span style="color: #af5fff">🮋</span> #AF5FFF  |
-| Cyan    | <span style="color: #6dfedf">🮋</span> #6DFEDF | <span style="color: #87ffd7">🮋</span> #87FFD7 |
-| White   | <span style="color: #f1eff8">🮋</span> #F1EFF8 | <span style="color: #e4e4e4">🮋</span> #E4E4E4  |
+| Color   | Hex Normal                                                           | Hex Bright                                                           |
+|---------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| Black   | ![](https://www.colourlovers.com/img/292A44/16/16/color.png) #292A44 | ![](https://www.colourlovers.com/img/53495D/16/16/color.png) #53495D |
+| Red     | ![](https://www.colourlovers.com/img/FF79C6/16/16/color.png) #FF79C6 | ![](https://www.colourlovers.com/img/FF5FAF/16/16/color.png) #FF5FAF |
+| Green   | ![](https://www.colourlovers.com/img/2DE0A7/16/16/color.png) #2DE0A7 | ![](https://www.colourlovers.com/img/5FD7AF/16/16/color.png) #5FD7AF |
+| Yellow  | ![](https://www.colourlovers.com/img/EFE4A1/16/16/color.png) #EFE4A1 | ![](https://www.colourlovers.com/img/FFFF87/16/16/color.png) #FFFF87 |
+| Blue    | ![](https://www.colourlovers.com/img/7AA5FF/16/16/color.png) #7AA5FF | ![](https://www.colourlovers.com/img/5FAFFF/16/16/color.png) #5FAFFF |
+| Magenta | ![](https://www.colourlovers.com/img/AE81FF/16/16/color.png) #AE81FF | ![](https://www.colourlovers.com/img/AF5FFF/16/16/color.png) #AF5FFF |
+| Cyan    | ![](https://www.colourlovers.com/img/6DFEDF/16/16/color.png) #6DFEDF | ![](https://www.colourlovers.com/img/87FFD7/16/16/color.png) #87FFD7 |
+| White   | ![](https://www.colourlovers.com/img/F1EFF8/16/16/color.png) #F1EFF8 | ![](https://www.colourlovers.com/img/E4E4E4/16/16/color.png) #E4E4E4 |
 
 You can find the full colorscheme on the repo above or download the
 [GIMP Color Palette](./palette/Rebecca.gpl) in this repo.

@@ -1,0 +1,35 @@
+GIMP Palette
+#Palette Name: Rebecca
+102 102 153 Comments #1
+95 95 135 Comments #2
+239 228 161 Constants #1
+255 255 135 Constants #2
+160 160 197 Dark foreground #1
+135 135 175 Dark foreground #2
+41 42 68 Default background
+241 239 248 Default foreground #1
+228 228 228 Default foreground #2
+255 121 198 Deprecation #1
+255 95 175 Deprecations #2
+45 224 167 Functions #1
+95 215 175 Functions #2
+122 165 255 Keywords #1
+95 175 255 Keywords #2
+83 73 93 Light background #1
+78 78 78 Light background #2
+204 204 255 Light foreground #1
+175 175 255 Light foreground #2
+102 51 153 Lighter background #1
+135 0 215 Lighter background #2
+51 51 83 Ninja
+102 51 153 Rebecca
+142 174 224 Regex #1
+135 175 215 Regex #2
+174 129 255 Search background #1
+175 95 255 Search background #2
+56 58 98 Selection background #1
+48 48 48 Selection background #2
+109 254 223 Strings #1
+135 255 215 Strings #2
+160 160 197 Variables #1
+175 175 215 Variables #2

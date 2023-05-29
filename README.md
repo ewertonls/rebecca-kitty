@@ -15,7 +15,7 @@ width="480" />
 
 Download or git clone this repo and include `rebecca-theme.conf`
 in your `kitty.conf` file.
-<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F2</kbd> will open
+<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F2</kbd> or <kbd>⌘</kbd>+<kbd>,</kbd> will open
 `~/.config/kitty/kitty.conf` on your default `EDITOR`, if the file
 doesn't exist kitty will create it:
 
